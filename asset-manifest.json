@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nucampReact1/static/css/main.f39c55fe.chunk.css",
-    "main.js": "/nucampReact1/static/js/main.673ece43.chunk.js",
-    "main.js.map": "/nucampReact1/static/js/main.673ece43.chunk.js.map",
+    "main.js": "/nucampReact1/static/js/main.54190f7c.chunk.js",
+    "main.js.map": "/nucampReact1/static/js/main.54190f7c.chunk.js.map",
     "runtime-main.js": "/nucampReact1/static/js/runtime-main.6f28a730.js",
     "runtime-main.js.map": "/nucampReact1/static/js/runtime-main.6f28a730.js.map",
     "static/css/2.60828d62.chunk.css": "/nucampReact1/static/css/2.60828d62.chunk.css",
     "static/js/2.d1e74070.chunk.js": "/nucampReact1/static/js/2.d1e74070.chunk.js",
     "static/js/2.d1e74070.chunk.js.map": "/nucampReact1/static/js/2.d1e74070.chunk.js.map",
     "index.html": "/nucampReact1/index.html",
-    "precache-manifest.2137ef30056fdf392163154dc3d9b678.js": "/nucampReact1/precache-manifest.2137ef30056fdf392163154dc3d9b678.js",
+    "precache-manifest.ac1bdeba9a5b851985c1a466645bf50e.js": "/nucampReact1/precache-manifest.ac1bdeba9a5b851985c1a466645bf50e.js",
     "service-worker.js": "/nucampReact1/service-worker.js",
     "static/css/2.60828d62.chunk.css.map": "/nucampReact1/static/css/2.60828d62.chunk.css.map",
     "static/css/main.f39c55fe.chunk.css.map": "/nucampReact1/static/css/main.f39c55fe.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.60828d62.chunk.css",
     "static/js/2.d1e74070.chunk.js",
     "static/css/main.f39c55fe.chunk.css",
-    "static/js/main.673ece43.chunk.js"
+    "static/js/main.54190f7c.chunk.js"
   ]
 }
